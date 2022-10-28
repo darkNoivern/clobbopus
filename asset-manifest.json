@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clobbopus/static/css/main.a8576f58.css",
+    "main.js": "/clobbopus/static/js/main.a62b38ae.js",
+    "static/js/787.1567f386.chunk.js": "/clobbopus/static/js/787.1567f386.chunk.js",
+    "static/media/logo.svg": "/clobbopus/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/clobbopus/index.html",
+    "main.a8576f58.css.map": "/clobbopus/static/css/main.a8576f58.css.map",
+    "main.a62b38ae.js.map": "/clobbopus/static/js/main.a62b38ae.js.map",
+    "787.1567f386.chunk.js.map": "/clobbopus/static/js/787.1567f386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8576f58.css",
+    "static/js/main.a62b38ae.js"
+  ]
+}
