@@ -1,0 +1,14 @@
+.active{
+    /* background-image: linear-gradient(white,#6C63FF,90deg) !important; */
+    background-color: #6C63FF !important;
+    color: white !important;
+}
+
+.vis-no{
+    visibility: hidden !important;
+    opacity: 0 !important;
+}
+
+.nav-elements{
+    margin-bottom: 0.3rem !important;
+}
